@@ -7,7 +7,7 @@ https://www.linkedin.com/in/tfhorn67/
 https://angel.co/u/tennyson-horn
 https://www.meetup.com/members/233779258/
 
-Are you reading this? Wow. Since you're here, here are some cool nerdy things I
+Are you still reading this? Wow. Since you're here, here are some cool nerdy things I
 was involved with in college that I'm pretty proud of but aren't directly
 relevant to my professional trajectory.
 
