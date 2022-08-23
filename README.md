@@ -11,7 +11,7 @@ Are you still reading this? Wow. Since you're here, here are some cool nerdy thi
 was involved with in college that I'm pretty proud of but aren't directly
 relevant to my professional trajectory.
 
-tl;dr: Hovercraft, composites & materials science are cool. NASA. Carbon Fiber.
+tl;dr: Hovercrafts, composites & materials science are cool. NASA. Carbon Fiber.
 Also Roll Tide. Aubs eat boogs.
 
 I helped build this monster. My friend Graham crashed and damaged it on a pylon
