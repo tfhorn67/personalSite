@@ -1,0 +1,7 @@
+#redirects from /path_requested to /path_served, new line for every redirect
+
+https://tennysonhorn.netlify.app/linkedin     https://www.linkedin.com/in/tfhorn67/
+https://tennysonhorn.netlify.app/twitter      https://twitter.com/TennysonHorn
+https://tennysonhorn.netlify.app/angellist    https://angel.co/u/tennyson-horn
+https://tennysonhorn.netlify.app/github       https://github.com/tfhorn67
+#https://tennysonhorn.netlify.app/resume      #resume.link
